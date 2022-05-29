@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @CojucariDumitru
+- 👀 I’m interested in Front-End Web Developing
+- 🌱 I’m currently learning by myself
+- 💞️ I’m looking to collaborate on different front-end projects
+- 📫 How to reach me https://cojucaridumitru.github.io/portfolio/Index.html#about
